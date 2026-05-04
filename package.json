@@ -1,0 +1,19 @@
+{
+  "name": "autocare",
+  "version": "1.0.0",
+  "description": "AutoCare is a local automobile service center application that provides services such as oil changes, car washing, and vehicle diagnostics. This MERN stack application digitizes the service booking process, simulating a real-world service management workflow with multiple user roles, structured data handling, and an interactive minimalist user interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "serverless-http": "^4.0.0"
+  }
+}
